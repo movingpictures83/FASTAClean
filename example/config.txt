@@ -1,0 +1,3 @@
+Prefix plugins/FASTAClean/example/
+Plugin FASTAClean inputfile headers-41.txt outputfile clean_sequence_headers.txt
+
